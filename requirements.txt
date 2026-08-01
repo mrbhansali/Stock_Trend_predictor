@@ -1,0 +1,10 @@
+yfinance
+pandas
+python-dotenv
+google-genai
+newsapi-python
+exchange-calendars
+ta
+xgboost
+scikit-learn
+joblib
